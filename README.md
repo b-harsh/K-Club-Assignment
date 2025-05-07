@@ -20,7 +20,7 @@ This project implements a Node.js backend service to process jobs involving imag
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/b-harsh/K-Club-Assignment.git
 cd K-club Assignment
 ```
 
