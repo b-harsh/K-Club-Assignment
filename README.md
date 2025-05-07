@@ -159,10 +159,10 @@ docker build -t K-club Assignment .
 docker run -p 3000:3000 K-club Assignment
 
 This maps container port 3000 to your local machine’s `localhost:3000`.
-
+```
 
 ## Work Environment
-
+```
 | Component       | Version / Tool                                 |
 | --------------- | ---------------------------------------------- |
 | OS              | windows 11                                     |
@@ -172,7 +172,7 @@ This maps container port 3000 to your local machine’s `localhost:3000`.
 | IDE             | Visual Studio Code (VSCode)                    |
 ```
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Use a persistent database to store job and image-level results.
 - Save calculated perimeters for detailed reporting and auditing.
